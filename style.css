@@ -1,0 +1,39 @@
+.bodytopimageofgoogleonheading{
+    width: 170px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.welcomeheading{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 200;
+}
+.forn{
+    width: 500px !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 45px;
+}
+.fornn{
+    margin-top: 0px;
+    position: relative;
+    left: 433px;
+}
+.show-password{
+    margin-left: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300px;
+    font-size: 14px;
+    
+}
+#chexbox-of-show-password{
+    margin-left: 433px;
+    margin-top: 20px;
+    cursor: pointer;
+}
